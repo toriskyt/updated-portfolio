@@ -1,0 +1,29 @@
+* {
+    box-sizing: content-box;
+
+}
+
+body {
+    background-image: url("11856661-closeup-of-rough-textured-background.jpg");
+    background-size: cover;
+}
+
+main {
+    height: 100vh;
+    background-color: rgba(143, 145, 160, 0.801);
+}
+
+.row {
+    border: 1px dotted red;
+}
+
+#about-section, 
+#work-section,
+/* TODO; why isn't the border for skillset showing? */
+#my-skillset {
+    border-right: 5px solid black;
+}
+
+.card-class {
+    margin-top: 5%;
+}
