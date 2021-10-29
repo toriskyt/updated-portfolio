@@ -10,8 +10,12 @@ body {
 }
 
 main {
-    height: 150vh;
+    height: 170vh;
     background-color: rgba(143, 145, 160, 0.801);
+}
+
+a[href^="mailto"]::before {
+    content: "📧 ";
 }
 
 .row {
@@ -35,5 +39,34 @@ main {
     background-color:rgba(14, 39, 226, 0.479);
     border-radius: 3%;
     margin-top: 10px;
+}
+
+.linkcard:hover {
+    background-color: #0099cc;
+  }
+
+  /* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .example {background: rgb(194, 190, 190);}
+  }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-1 {width: 8.33%;}
+    .col-3 {width: 25%;}
+    .col-8 {width: 66.66%;}
+  }
+
+
+footer {
+        padding: 10px;
+        background-color: #333;;
+        color:rgb(190, 187, 187);
+        font-weight: 900;
+        margin-top: 100px;
 }
 
