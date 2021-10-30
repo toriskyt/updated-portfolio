@@ -36,6 +36,7 @@ a[href^="mailto"]::before {
     margin-top: 5%;
 }
 
+/* Cards for project display */
 .linkcard {
     background-color:rgba(14, 39, 226, 0.479);
     border: 1px solid indigo;
