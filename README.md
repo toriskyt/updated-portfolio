@@ -1,3 +1,6 @@
+Tracy Torisky Professional Portfolio
+ttorisky@gmail.com
+
 The user will be able to view my portfolio and examine my background, skills, and experience.  The user will also have access to my contact information.
 
 The user will find my full name, address and e-mail at the top of the page.

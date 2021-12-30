@@ -14,7 +14,7 @@ main {
     background-color: rgba(143, 145, 160, 0.801);
 }
 
-/* e-mail icon */
+e-mail icon
 a[href^="mailto"]::before {
     content: "📧 ";
 }
