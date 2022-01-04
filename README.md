@@ -2,7 +2,7 @@ Tracy Torisky Professional Portfolio
 
 ttorisky@gmail.com
 
-![screenshot of portfolio](/assets/Torisky-portfolio.png)
+![screenshot of portfolio](assets/Torisky-portfolio.png)
 
 Potential employers will be able to view my portfolio and examine my background, skills, and experience.  They will also have access to my contact information.
 
